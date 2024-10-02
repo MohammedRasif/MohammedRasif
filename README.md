@@ -1,6 +1,6 @@
-![logo](https://github.com/MohammedRasif/MohammedRasif/blob/main/Full-Stack-Developer.jpg)
+![logo][(https://github.com/MohammedRasif/MohammedRasif/blob/main/Full-Stack-Developer.jpg](https://res.cloudinary.com/dvubt5hiv/image/upload/v1727888679/vntpqwnsxfgfbtgtdygn.jpg))
 <h1 align="center">Hi 👋, I'm Mohammed Rasif</h1>
-<h3 align="center">I'm Junior Full-Stack Developer</h3>
+<h3 align="center">I'm Junior Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
