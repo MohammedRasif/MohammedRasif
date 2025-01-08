@@ -54,20 +54,26 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrasif&show_icons=true&locale=en&layout=compact" alt="mohammedrasif" /></p>
+<p align="">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrasif&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammedrasif" />
+</p>
+
 <div align="">
-<img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  </div>
-<h3 align="left">👩‍💻  About Me</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrasif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+</div>
 
-###
+<h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  I'm Md Rasif, a Web Developer and MERN Stack Developer from Chottogram, Bangladesh.<br><br>
+  - 🔭 I specialize in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.<br>
+  - 📚 I'm currently learning advanced backend architecture and optimizing performance for large-scale applications.<br>
+  - ⚡ In my free time, I explore new web technologies, contribute to open-source projects, and refine my skills in API development.<br>
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohammedrasif&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
