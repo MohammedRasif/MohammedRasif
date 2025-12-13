@@ -38,9 +38,17 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
+  
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
+</a>
+   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40" />
+</a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
+ 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
@@ -65,8 +73,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm Md Rasif, a Web Developer and MERN Stack Developer from Chottogram, Bangladesh.<br><br>
-  - 🔭 I specialize in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.<br>
+  I’m Md. Rasif, a Web and Mobile App Developer based in Chattogram, Bangladesh.<br><br>
+  - 🔭 I specialize in building web applications using React.js, Node.js, Express.js, and MongoDB.<br>
   - 📚 I'm currently learning advanced backend architecture and optimizing performance for large-scale applications.<br>
   - ⚡ In my free time, I explore new web technologies, contribute to open-source projects, and refine my skills in API development.<br>
 </p>
@@ -76,5 +84,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mohammedrasif&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
 
 
