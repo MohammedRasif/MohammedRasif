@@ -20,7 +20,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <!-- First Row -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -42,10 +41,6 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
-</p>
-
-<p align="left">
-  <!-- Second Row -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -66,11 +61,11 @@
   </a>
 </p>
 
-<p align="">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrasif&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammedrasif" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrasif&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammedrasif" />
 </p>
 
-<div align="">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrasif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
