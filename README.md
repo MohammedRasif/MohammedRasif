@@ -45,8 +45,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 <h1 >🛠️ Tech Stack</h1>
 
 ### 🎨 Frontend
