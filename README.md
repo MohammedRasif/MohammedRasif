@@ -92,7 +92,6 @@
   </tr>
 </table>
 
----
 
 ### ⚙️ Backend
 
@@ -125,7 +124,7 @@
   </tr>
 </table>
 
-<br><br><br>
+<br><br>
 
 ### 🛠️ Tools & DevOps
 
